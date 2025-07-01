@@ -1,0 +1,144 @@
+{
+  "first_aid_questions": [
+    {
+      "id": 1,
+      "question": "What is the first step when someone is choking?",
+      "options": [
+        "Give back blows",
+        "Call emergency services",
+        "Check if they can cough or speak",
+        "Perform chest compressions"
+      ],
+      "correct_answer": 2,
+      "explanation": "First, check if the person can cough, speak, or breathe. If they can, encourage them to keep coughing. If not, then proceed with back blows.",
+      "category": "choking",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "How many chest compressions should you give per minute during CPR?",
+      "options": [
+        "60-80",
+        "100-120",
+        "120-140",
+        "80-100"
+      ],
+      "correct_answer": 1,
+      "explanation": "The recommended rate for chest compressions is 100-120 compressions per minute to maintain effective blood circulation.",
+      "category": "cpr",
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "question": "What should you do for a minor burn?",
+      "options": [
+        "Apply ice directly",
+        "Use butter or oil",
+        "Run cool water over it for 10-20 minutes",
+        "Pop any blisters"
+      ],
+      "correct_answer": 2,
+      "explanation": "Cool running water helps reduce pain and prevents further tissue damage. Never use ice, butter, or pop blisters.",
+      "category": "burns",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "What is the recovery position used for?",
+      "options": [
+        "Unconscious but breathing patients",
+        "Patients with broken bones",
+        "Patients having a heart attack",
+        "Patients who are choking"
+      ],
+      "correct_answer": 0,
+      "explanation": "The recovery position keeps the airway open and prevents choking on vomit for unconscious but breathing patients.",
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "How deep should chest compressions be for an adult?",
+      "options": [
+        "1-2 inches",
+        "2-2.4 inches",
+        "3-4 inches",
+        "1 inch"
+      ],
+      "correct_answer": 1,
+      "explanation": "Chest compressions should be at least 2 inches (5 cm) but no more than 2.4 inches (6 cm) deep for adults.",
+      "category": "cpr",
+      "difficulty": "hard"
+    },
+    {
+      "id": 6,
+      "question": "What should you do if someone is having a severe allergic reaction?",
+      "options": [
+        "Give them water",
+        "Use their EpiPen if available and call emergency services",
+        "Make them lie down",
+        "Give them antihistamines only"
+      ],
+      "correct_answer": 1,
+      "explanation": "Use their EpiPen immediately if available and call emergency services. Severe allergic reactions can be life-threatening.",
+      "category": "allergic_reaction",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "How should you treat a nosebleed?",
+      "options": [
+        "Tilt head back and pinch nose",
+        "Lean forward and pinch soft part of nose",
+        "Lie down flat",
+        "Put ice on the forehead"
+      ],
+      "correct_answer": 1,
+      "explanation": "Lean forward slightly and pinch the soft part of the nose for 10-15 minutes. Tilting back can cause blood to flow down the throat.",
+      "category": "bleeding",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "What is the correct ratio of chest compressions to rescue breaths in CPR?",
+      "options": [
+        "15:2",
+        "30:2",
+        "20:2",
+        "10:1"
+      ],
+      "correct_answer": 1,
+      "explanation": "The standard ratio is 30 chest compressions followed by 2 rescue breaths for both adults and children.",
+      "category": "cpr",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "What should you do for someone having a seizure?",
+      "options": [
+        "Hold them down to stop the shaking",
+        "Put something in their mouth",
+        "Clear the area and time the seizure",
+        "Give them water"
+      ],
+      "correct_answer": 2,
+      "explanation": "Clear the area of dangerous objects, time the seizure, and stay with them. Never restrain them or put anything in their mouth.",
+      "category": "seizure",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question": "How long should you wash a wound with clean water?",
+      "options": [
+        "30 seconds",
+        "1-2 minutes",
+        "5 minutes",
+        "10 seconds"
+      ],
+      "correct_answer": 1,
+      "explanation": "Wash wounds with clean water for 1-2 minutes to remove dirt and bacteria before applying a clean dressing.",
+      "category": "wounds",
+      "difficulty": "easy"
+    }
+  ]
+}
